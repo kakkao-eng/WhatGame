@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "LevelDs",
+    "path": "folders/Objects/LevelDs.yy",
   },
   "parentObjectId": null,
   "persistent": false,
