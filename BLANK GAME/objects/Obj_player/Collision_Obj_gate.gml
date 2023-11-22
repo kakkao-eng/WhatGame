@@ -1,13 +1,13 @@
-//ใน Player Object ใช้งาน Collision Event
-
-
-if (place_meeting(x, y, Obj_gate)) {
-	
-	if (Obj_player.coins_collected >= Obj_player.total_coins){
-		
-    room_goto(Room2); // ส่ง player เข้า Room2 หลังจากชน gate
-	}
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 69AC99FA
+/// @DnDArgument : "var" "Obj_game.points"
+/// @DnDArgument : "value" "5"
+if(Obj_game.points == 5)
+{
+	/// @DnDAction : YoYo Games.Rooms.Next_Room
+	/// @DnDVersion : 1
+	/// @DnDHash : 4D5D3B68
+	/// @DnDParent : 69AC99FA
+	room_goto_next();
 }
-
-
-
