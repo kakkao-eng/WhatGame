@@ -1,20 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_button_exit",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,},
-  ],
+  "name": "Obj_planet_1",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "UX-UI",
-    "path": "folders/Objects/UX-UI.yy",
+    "name": "LevelDs",
+    "path": "folders/Objects/LevelDs.yy",
   },
-  "parentObjectId": {
-    "name": "Obj_button_parent",
-    "path": "objects/Obj_button_parent/Obj_button_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_Button",
-    "path": "sprites/Spr_Button/Spr_Button.yy",
+    "name": "Spr_planet_1",
+    "path": "sprites/Spr_planet_1/Spr_planet_1.yy",
   },
   "spriteMaskId": null,
   "visible": true,

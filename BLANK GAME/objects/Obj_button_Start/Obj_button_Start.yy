@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_button_exit",
+  "name": "Obj_button_Start",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,},
   ],
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_Button",
-    "path": "sprites/Spr_Button/Spr_Button.yy",
+    "name": "Spr_Button2",
+    "path": "sprites/Spr_Button2/Spr_Button2.yy",
   },
   "spriteMaskId": null,
   "visible": true,
