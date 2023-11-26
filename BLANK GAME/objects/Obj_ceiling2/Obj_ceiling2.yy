@@ -9,7 +9,10 @@
     "name": "LevelDs",
     "path": "folders/Objects/LevelDs.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Obj_ground",
+    "path": "objects/Obj_ground/Obj_ground.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
