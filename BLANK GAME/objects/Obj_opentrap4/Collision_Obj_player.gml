@@ -2,6 +2,6 @@
 /// @DnDVersion : 1
 /// @DnDHash : 2AC33B48
 /// @DnDApplyTo : {Obj_laser2}
-/// @DnDArgument : "speed" "8"
+/// @DnDArgument : "speed" "6"
 /// @DnDArgument : "type" "1"
-with(Obj_laser2) hspeed = 8;
+with(Obj_laser2) hspeed = 6;
