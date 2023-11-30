@@ -1,0 +1,1 @@
+draw_sprite_stretched_ext(spr_vignette, 0, 0, 0, Obj_camera.display_width, Obj_camera.display_height, c_white, 0.5);

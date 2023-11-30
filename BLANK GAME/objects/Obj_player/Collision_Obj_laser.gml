@@ -5,5 +5,5 @@ instance_destroy();
 
 /// @DnDAction : YoYo Games.Rooms.Restart_Room
 /// @DnDVersion : 1
-/// @DnDHash : 11F1E897
+/// @DnDHash : 52F14CDF
 room_restart();

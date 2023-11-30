@@ -14,10 +14,12 @@
     {"name":"inst_F8429F0","path":"rooms/RoomTeach/RoomTeach.yy",},
     {"name":"inst_4990AE09","path":"rooms/RoomTeach/RoomTeach.yy",},
     {"name":"inst_7B230345","path":"rooms/RoomTeach/RoomTeach.yy",},
+    {"name":"inst_2EE46B23","path":"rooms/RoomTeach/RoomTeach.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2EE46B23","colour":1560281087,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_star","path":"objects/Obj_star/Obj_star.yy",},"properties":[],"rotation":0.0,"scaleX":1.8914286,"scaleY":1.0,"x":685.71857,"y":390.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1B80F54E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_teach3","path":"objects/Obj_teach3/Obj_teach3.yy",},"properties":[],"rotation":0.0,"scaleX":4.5,"scaleY":4.5,"x":717.0,"y":511.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2052AC1E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_teach6","path":"objects/Obj_teach6/Obj_teach6.yy",},"properties":[],"rotation":0.0,"scaleX":4.5,"scaleY":4.5,"x":717.0,"y":384.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_224D36F6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_teach4","path":"objects/Obj_teach4/Obj_teach4.yy",},"properties":[],"rotation":0.0,"scaleX":4.5,"scaleY":4.5,"x":572.0,"y":271.0,},

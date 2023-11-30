@@ -35,7 +35,7 @@
     ],
     "highlightColour": 1728023040,
     "highlightStyle": 0,
-    "left": 87,
+    "left": 88,
     "right": 150,
     "tileMode": [
       0,

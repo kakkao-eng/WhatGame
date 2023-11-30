@@ -8,6 +8,6 @@ with(Obj_standtrap2) hspeed = 10;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 0622AC26
+/// @DnDHash : 6E944E08
 /// @DnDArgument : "steps" "20"
 alarm_set(0, 20);

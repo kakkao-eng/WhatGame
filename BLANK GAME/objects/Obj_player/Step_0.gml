@@ -24,3 +24,17 @@ if move_x != 0
 	image_xscale = sign(move_x);
 
 }
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 10EDAA6F
+/// @DnDArgument : "var" "move_x"
+if(move_x == 0)
+{
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 65B259C0
+	/// @DnDParent : 10EDAA6F
+	/// @DnDArgument : "var" "image_index"
+	image_index = 0;
+}

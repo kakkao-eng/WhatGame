@@ -20,3 +20,8 @@ with(Obj_opentrap13) vspeed = 3;
 /// @DnDApplyTo : {Obj_player}
 /// @DnDArgument : "type" "1"
 with(Obj_player) hspeed = 0;
+
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 3DEC612C
+instance_destroy();
