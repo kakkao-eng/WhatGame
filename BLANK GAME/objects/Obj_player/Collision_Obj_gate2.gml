@@ -9,7 +9,7 @@ if(Obj_game.points == 5)
 	/// @DnDVersion : 1
 	/// @DnDHash : 61472975
 	/// @DnDParent : 27F1669A
-	/// @DnDArgument : "room" "Room2"
-	/// @DnDSaveInfo : "room" "Room2"
-	room_goto(Room2);
+	/// @DnDArgument : "room" "win"
+	/// @DnDSaveInfo : "room" "win"
+	room_goto(win);
 }
